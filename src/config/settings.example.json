@@ -1,0 +1,11 @@
+{
+  "url": "https://www.reddit.com/r/ChatGPT/comments/1epeshq/",
+  "maxItems": 200,
+  "output_dir": "data",
+  "formats": ["json", "jsonl", "csv", "xml", "html", "xlsx"],
+  "proxies": {
+    "http": null,
+    "https": null
+  },
+  "notes": "Copy this file to settings.json or use data/inputs.sample.json and customize it as needed."
+}
