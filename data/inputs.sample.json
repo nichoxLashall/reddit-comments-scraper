@@ -1,0 +1,10 @@
+{
+  "url": "https://www.reddit.com/r/ChatGPT/comments/1epeshq/",
+  "maxItems": 200,
+  "output_dir": "data",
+  "formats": ["json", "jsonl", "csv", "xml", "html", "xlsx"],
+  "proxies": {
+    "http": null,
+    "https": null
+  }
+}
